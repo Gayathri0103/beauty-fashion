@@ -4,7 +4,7 @@ Discover trendy, high-quality fashion at unbeatable prices! Shop the latest styl
 
 Project Details
 
-Project Demo URL: https://mystoragevault.z13.web.core.windows.net/
+Project Demo URL: https://befashion1.z23.web.core.windows.net/
 
 Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
 
