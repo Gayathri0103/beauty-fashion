@@ -1,4 +1,4 @@
-bf-vault
+Beauty-Fashion
 
 Discover trendy, high-quality fashion at unbeatable prices! Shop the latest styles from our store. you can get from casual to chic, and also enjoy our fastest shipping services and exclusive deals. Elevate your wardrobe today!
 
@@ -8,8 +8,7 @@ Project Demo URL: https://mystoragevault.z13.web.core.windows.net/
 
 Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
 
-GitHub Repository URL: https://github.com/kbjtushar/victory-vault
-
+GitHub Repository URL: https://github.com/Gayathri0103/beauty-fashion
 
 Industry: lifestyle-clothing
 Roles and responsibilities
