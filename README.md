@@ -127,4 +127,4 @@ Contact page
 
 Final Project Statement:
 
-Your one syep destination for fashion-forward outfits. Feel confident and stylish in our handpicked selection of the season's hottest looks. Shop the latest trends, enjoy great discounts, and get ready to turn heads!!!
+Your one step destination for fashion-forward outfits. Feel confident and stylish in our handpicked selection of the season's hottest looks. Shop the latest trends, enjoy great discounts, and get ready to turn heads!!!
